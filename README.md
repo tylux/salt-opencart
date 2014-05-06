@@ -6,7 +6,7 @@ salt-opencart
 
 ## Description
 
-Salt State configuration files for deploying Opencart v.1.5.6.1 on an LAMP server
+Salt State configuration files for deploying the latest opencart on an LAMP server
 
 ## How to Run
 
