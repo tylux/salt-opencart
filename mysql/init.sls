@@ -20,6 +20,8 @@ opencart:
     - name: opencart
     - host: localhost
     - password: {{ mysql_password }}
+    - connection_user: root
+    - connection_charset: utf8
     - require:
       - pkg: python-mysqldb
   mysql_grants.present:

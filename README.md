@@ -2,9 +2,7 @@ salt-opencart
 =================
 
 ## known bugs:
-
-- newest salt version has a issue with mysql_grants.present state, should be fixed soon https://github.com/saltstack/salt/issues/11243
-- will have to create opencart db user manually "grant all privileges on opencart.* to 'opencart'@'localhost';"
+- none
 
 ## Description
 
